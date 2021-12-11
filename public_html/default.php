@@ -46,7 +46,7 @@
                 </article>
 
                 <aside>
-		<img src="123.jpg"/>
+		<img src="img/123.jpg"/>
                 </aside>
 
             </div> <!-- #main -->

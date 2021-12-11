@@ -46,8 +46,7 @@
                 </article>
 
                 <aside>
-                    <h3>Inspect our Elements</h3>
-                    <p>Take a Look, Cookie Cutter or Not, We'll do our best to make our code clean and easy to read and use, making changes quickly and knowing where everything is, we have systems in place that we want to share with you, because we know our product is good. </br>Feel free to <b style="color:rgb(221, 19, 137)">Navigate the site. ;)</b></p>
+		<img src="123.jpg"/>
                 </aside>
 
             </div> <!-- #main -->
